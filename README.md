@@ -11,3 +11,5 @@ Once the application is successfully build, start the application using docker c
 
 ### `docker-compose up`
 
+Test the application using the [URl](https://localhost:9000/nhs-webapp)
+
