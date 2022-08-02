@@ -1,2 +1,2 @@
 # nhs-directory-webapp
-Mock web app service for data query
+Mock web app service 

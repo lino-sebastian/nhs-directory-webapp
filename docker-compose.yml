@@ -1,0 +1,8 @@
+version: "2"
+services:
+  springboot-app:
+    container_name: nhs-directory-webapp-container
+    image: nhs-directory-webapp
+    build: .
+    ports:
+      - 9000:9000
