@@ -2,6 +2,13 @@
 Microservice designed to handle UI for the mock data service used to query health care data.
 The service `nhs-directory-webapp` comprises of react project
 
+## Tools and Environment Used
+- Java JDK 1.8
+- Node
+- NPM
+- Maven
+- IntelliJ
+
 ## Build and Run
 Build the application using Maven command
 
